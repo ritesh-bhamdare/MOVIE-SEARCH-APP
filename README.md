@@ -1,5 +1,14 @@
 # 🎬 Movie Search App
 
+**COMPANY:** CODTECH IT SOLUTIONS  
+**NAME:** RITESH BHAMDARE   
+**INTERN ID:** CT08DZ656  
+**DOMAIN:** REACT.JS WEB DEVELOPMENT  
+**DURATION:** 8 WEEKS  
+**MENTOR:** NEELA SANTHOSH KUMAR  
+
+## Overview
+
 The **Movie Search App** is a modern and responsive web application that allows users to search for movies and explore detailed information such as titles, posters, release dates, ratings, and descriptions. It is built with **React (Vite)** for fast performance and leverages an external movie API (such as OMDB API or The Movie Database API) to fetch real-time movie data.
 
 ---
@@ -31,7 +40,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/ritesh-bhamdare/MOVIE-SEARCH-APP
    cd movie-search-app
    ```
 2. **Install dependencies**
@@ -57,3 +66,8 @@ npm run dev
 ```bash
 npm run build
 ```
+## Output:
+
+<p align="center">
+  <img src="./screenshots/home.png" width="300" />
+</p>
