@@ -27,7 +27,7 @@ The **Movie Search App** is a modern and responsive web application that allows 
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React (Vite)
-- **Styling**: CSS / Tailwind (if enabled in your project)
+- **Styling**: CSS / Tailwind
 - **API**: OMDB API or The Movie Database (TMDb) API
 - **Language**: JavaScript (ES6+)
 - **Tooling**: Vite, ESLint
