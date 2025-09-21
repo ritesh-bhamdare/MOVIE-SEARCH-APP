@@ -7,7 +7,7 @@
 **DURATION:** 8 WEEKS  
 **MENTOR:** NEELA SANTHOSH KUMAR  
 
-## Overview
+## 🌟 Overview
 
 The **Movie Search App** is a modern and responsive web application that allows users to search for movies and explore detailed information such as titles, posters, release dates, ratings, and descriptions. It is built with **React (Vite)** for fast performance and leverages an external movie API (such as OMDB API or The Movie Database API) to fetch real-time movie data.
 
@@ -39,29 +39,23 @@ The **Movie Search App** is a modern and responsive web application that allows 
 Follow these steps to run the project locally:
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/ritesh-bhamdare/MOVIE-SEARCH-APP
-   cd movie-search-app
-   ```
+```bash
+git clone https://github.com/ritesh-bhamdare/MOVIE-SEARCH-APP
+cd movie-search-app
+```
 2. **Install dependencies**
-    ```bash
-   npm install
-    ```
-
-
-3. **Add Environment Variables**
+```bash
+npm install
+```
+3. **Add Environment Variables.**
 Create a .env file in the root folder with the following variable:
 ```bash
 VITE_MOVIE_API_KEY=your_api_key_here
 ```
-
-
 4. **Run the development server**
 ```bash
 npm run dev
 ```
-
-
 5. **Build for production**
 ```bash
 npm run build
@@ -69,5 +63,5 @@ npm run build
 ## Output:
 
 <p align="center">
-  <img src="./screenshots/home.png" width="300" />
+  <img src="https://github.com/user-attachments/assets/36352360-f92b-46af-8826-112fd886f14e" width="400" />
 </p>
